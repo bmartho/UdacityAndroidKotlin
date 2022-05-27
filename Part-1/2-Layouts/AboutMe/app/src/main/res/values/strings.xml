@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Bruno</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">My name is Bruno My name is Bruno My name is Bruno
+    \nMy name is BrunoMy name is BrunoMy name is Bruno\n
+    My name is BrunoMy name is BrunoMy name is Bruno\n\n\n
+    My name is Bruno My name is Bruno\n\n\n\
+    My name is Bruno My name is Bruno My name is Bruno
+    \nMy name is BrunoMy name is BrunoMy name is Bruno\n
+    My name is BrunoMy name is BrunoMy name is Bruno\n\n\n
+    My name is Bruno My name is Bruno\n\n\n\n
+    My name is Bruno My name is Bruno My name is Bruno
+    \nMy name is BrunoMy name is BrunoMy name is Bruno\n
+    My name is BrunoMy name is BrunoMy name is Bruno\n\n\n
+    My name is Bruno My name is Bruno\n\n\n\n
+    My name is Bruno My name is Bruno My name is Bruno
+    \nMy name is BrunoMy name is BrunoMy name is Bruno\n
+    My name is BrunoMy name is BrunoMy name is Bruno\n\n\n
+    My name is Bruno My name is Bruno\n\n\n\n
+    My name is Bruno My name is Bruno My name is Bruno
+    \nMy name is BrunoMy name is BrunoMy name is Bruno\n
+    My name is BrunoMy name is BrunoMy name is Bruno\n\n\n
+    My name is Bruno My name is Bruno\n\n\n\n</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
